@@ -108,7 +108,7 @@
         layer_4 {
             bindings = <
 &trans  &trans  &trans  &trans  &trans                    &trans  &trans    &trans  &trans  &trans
-&kp A   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &mkp MB1  &trans  &trans  &trans
+&none   &trans  &trans  &trans  &trans  &trans    &trans  &trans  &mkp MB1  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans                            &trans
             >;
